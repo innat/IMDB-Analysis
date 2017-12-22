@@ -34,13 +34,15 @@ We also observe the ratings value of movies with its concern launching year and 
 
 ## Most Rated Genres | Findings
 We can visualize that drama genres are most in number and rated more than other movies genres.
-![avg movie rating over time](https://user-images.githubusercontent.com/17668390/34288786-71aabd46-e719-11e7-8f77-310b5ff7d1e5.PNG)
+![ratings vs genres](https://user-images.githubusercontent.com/17668390/34288967-566db1ae-e71a-11e7-8092-0847ac5c4dd5.PNG)
+<hr>
 
 Visualize in pie plot with percentile.
 ![most frequent genres](https://user-images.githubusercontent.com/17668390/34288803-86019b20-e719-11e7-8099-79f623bbd375.PNG)
-
+<br><hr>
 Rating value of each movies with concern launching year. Also the average ratings of value in ratings columns.
 ![avg movie rating over time](https://user-images.githubusercontent.com/17668390/34288827-9c61cb4c-e719-11e7-9113-325670a8a75c.PNG)
+<br><hr>
 In box plot we found,
 ![box plot of avg movie ratings](https://user-images.githubusercontent.com/17668390/34288846-b3cce5f0-e719-11e7-8359-24077b72723d.PNG)
 
@@ -58,7 +60,7 @@ Where did you get your data?  Did you use other informal analysis to inform your
 We are using the following dataset : IMDB Movie Dataset http://grouplens.org/datasets/  . And yes , I used some other informal analysis to inform my work. Taking about feedback , unfortunately I don’t have no one to get feedback from now.
 
 ## Most Rated Genres | References
-http://grouplens.org/datasets/
+http://grouplens.org/datasets/ <hr>
 http://pandas.pydata.org/pandas-docs/stable
 
 
