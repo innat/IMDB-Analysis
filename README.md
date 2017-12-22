@@ -60,7 +60,7 @@ Where did you get your data?  Did you use other informal analysis to inform your
 We are using the following dataset : IMDB Movie Dataset http://grouplens.org/datasets/  . And yes , I used some other informal analysis to inform my work. Taking about feedback , unfortunately I don’t have no one to get feedback from now.
 
 ## Most Rated Genres | References
-http://grouplens.org/datasets/ <hr>
+http://grouplens.org/datasets/ <br>
 http://pandas.pydata.org/pandas-docs/stable
 
 
