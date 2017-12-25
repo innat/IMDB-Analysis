@@ -56,7 +56,6 @@ We try to answer our research question by exploring our merge data and find some
 
 ## Most Rated Genres | Acknowledgements
 
-Where did you get your data?  Did you use other informal analysis to inform your work?  Did you get feedback on your work by friends or colleagues? Etc.  If you had no one give you feedback and you collected the data yourself, say so.
 We are using the following dataset : IMDB Movie Dataset http://grouplens.org/datasets/  . And yes , I used some other informal analysis to inform my work. Taking about feedback , unfortunately I don’t have no one to get feedback from now.
 
 ## Most Rated Genres | References
