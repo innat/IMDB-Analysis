@@ -3,9 +3,6 @@
 
 ### Observing the givien data set we had to explore and find a appropriate research question.
 
-`ALL are ok and now it broke\
-so have to have it`
-
 ## Most Rated Genres | Abstract
 IMDB Movie Dataset. Our research question is What types of movies genres user viewed and rated most than other movies genres ? We take some general approach to solve it. We successfully find the relationship between genres and ratings value including average ratings value with concern launch year.
 
