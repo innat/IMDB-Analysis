@@ -1,5 +1,4 @@
 # IMDB-Movie-Set
-## Data Science for Python from edX by UC San Deigo University La Jolla , Califoria USA
 
 ### Observing the givien data set we had to explore and find a appropriate research question.
 
