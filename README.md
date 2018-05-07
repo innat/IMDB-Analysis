@@ -62,3 +62,7 @@ http://grouplens.org/datasets/ <br>
 http://pandas.pydata.org/pandas-docs/stable
 
 
+---
+Regards
+
+**World of Void.**
